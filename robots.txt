@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-0r0q08.artkap.com.tr/sitemap.xml
